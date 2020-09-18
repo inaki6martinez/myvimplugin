@@ -1,0 +1,6 @@
+void esmr5_mbus_init(esmr5_mbus_t *mbus,
+---------------------
+---------------------
+static
+void esmr5_mbus_init(esmr5_mbus_t *mbus,
+---------------------
