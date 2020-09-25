@@ -32,5 +32,5 @@ function! Indexation()
 endfunction
 command! -nargs=0 Indexation call Indexation()
 
-"inoremap <silent> <CR>  <ESC>:Indexation<CR>
+inoremap <silent><Space><Space><CR>  <ESC>:Indexation<CR>
 
